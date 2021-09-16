@@ -1,0 +1,389 @@
+1. -vinc- = -vict- 胜，征服
+2. -form- 形式，格式，形成
+3. -prehend(s)-抓住
+4. -struct- 建造
+5. -od-路
+6. -bar- = -bal- = -ban- 长木条，障碍
+7. -vi- = -via- 路
+8. -script- = -scrib- 写
+9. -techn(o)- 技术，艺术
+10. -press- 压，按
+11. -rect- 正，直
+12. -flu- -flux- 流
+13. -st- 立，站
+14. -sist- 站
+15. -erg- = -org- = -urg 做
+16. -lect- = -leg- = -lig- 选择
+17. -path- = -pat- 疾病，忍受
+18. -strict- = -string- 拉紧
+19. -ple- = -plet- = -pli-=全，满
+20. -medi- 中间
+21. -preci- 价值
+22. -miss- = -mit- 投，送，发
+23. -sci- 知
+24. -liter- 文字
+25. -sum-
+26. -spect- = -spic- 看
+27. -vis-
+28. -lat- 拿，持
+29. -vac- 空
+30. -sim- = -simil- 相似
+31. -helic- 旋
+32. -mot- 动
+33. -sert- 地方
+34. -duct- = -duc- 引导
+35. -journ- 一天
+36. -circ- 圆
+37. -part- 分，部分
+27. -vis- = view
+38. -vent- 来
+39. -loc- 地方
+40. -urb- 城市
+41. -tract- 拖，拽 -treat- 处理，拖拽
+42. -torn- = -tour- 转，迂回
+43. -proach- = -proxim-接近
+44. -arch- 拱形
+45. -cup- 占有
+46. -fess-
+47. -manu- = -man- 手
+48. -fasc- 捆，束
+49. -viv- 活
+50. -tact- 接触
+51. -liqu- 液体
+52. -pand-，-pans-展开
+53. -mix- = -misc- 混合
+54. -electr- 电
+55. -clud-=close，shut 关闭（-clud-也作-clus-）
+56. -act- 做
+57. -solv- = -solu- 解
+58. -fact-=do，make 做 （-fact-也作-fac-，-fect-，-fic-）
+59. -lect- 说
+60. -tain-
+61. -ced-，-ceed-，-cess- 走
+62. -log-，-logue-=speak 言，说
+63. -fend-，-fens-打击
+64. -cre-，-cresc-，-cret- 增长，生长，产生
+65. -cent- 百
+66. -sign- 设计
+67. -doc-，-doct- 教
+68. -milit- =soldier 兵
+69. -centr- 中心
+70. -fin- 终结，末尾，界限
+71. -fan-，-phan- 幻影，幻象
+72. -pend-，-pens- 悬挂，称量，花费
+    (a)-pend-，-pens- = hang 悬挂
+    (b)-pend-，-pens-=weigh 称量
+    (c) -pend-，-pens-=pay 付钱，支出，花费
+73. -van-前，先
+74. -stat-立
+75. -di-=day 日
+76. -jur- = -jud- = -jus- 法律
+77. -norm-
+78. -sur- 确定
+79. -quest-，-quis-，-quir-问，求，寻
+82. -crim- 罪
+83. -nect-，-nex- 结，系
+85. -rat- 计算
+86. -horr- 怕
+87. -cogn-=know 知道
+88. -audi- 听
+89. -pos- = -pon-放置
+90. -phon- 声音
+91. -gen- = -gener- 出生
+92. -prim- = -prin- 第一
+93. -pli(c)- = -plex- 折叠
+94. -sol-①单独
+95. -cord-=heart 心
+96. -art- 艺术
+97. -tempor- =time 时
+98. -dit- 给
+99. -serv-观看，服务，保留
+100. -opt- 采取，眼睛
+101. -hibit- = hold 拿，持
+102. -graph- 写
+103. -eco- 住所
+104. -pol- 城市
+105. -cosmo- 宇宙
+106. -nav- 航行
+107. -vers- 转
+108. -orb- 圆
+109. -grat- 感谢
+110. -amat- 爱
+111. -astro- = -astr- 星星
+112. -tele- 远
+113. -cult- 耕作
+115. -cad- = -cas- = -cid- 降落
+116. -sect- 切
+117. -sem- = -sim- = -sym- = -syn- 相似
+118. -civ- 公民
+119. -sent- 派送
+121. -reg- 规则，统治
+122. -velop- 包，裹，卷
+123. -fig- = -fict- 塑造，虚构
+124. -habit- 居住
+125. -port- 拿，取
+126. -cur-，-curs-，-cour-，-cours-=run 跑
+127. -trop- 转
+128. -equ- 相等
+129. -rot- 轮，转
+130. -viol-力，暴力
+131. -rupt- 破
+133. -terr- 恶
+134. -camp- 营地
+135. -cycl- 圆
+136. -spher(e)- 球，圈，层
+137. -cern- = -cret- 辨别
+138. -maj- = -max- 大
+139. -plain- 打
+140. -tect- 掩盖，掩护
+141. -soph- 智慧
+142. -tribut- 给
+144. -term- 限定，界线，末端
+145. -commod- 便利，方便
+146. -merg- = dip，sink 沉，没 (-merg-也作-mers-)
+147. -freeze- = -frig- 冰冻
+148. -rid- = -ris- 笑
+149. -sol- 太阳
+150. -mand- 命令
+151. -char- = -car-车
+152. -optim- 最好的
+153. -colon- 栖息
+154. -fare- 去
+155. -ped- 脚
+156. -plor- 流出，哀叫，哀叹
+157. -gest- = -ger- = -gist-运送
+158. -un- = -uni- 整体；联合
+159. -var- 变
+160. -gress- = -grad- 步，走
+161. -volv-卷
+162. -lig- = -leag- 绑
+163. -rud- 原始，粗野
+164. -plaud- = -plod- = -plos- 大声
+165. -soci- 同伴，联合，结合
+166. -bi(o)- 生命
+167. -bot- 种植，植物
+168. -zo- 动物
+169. -ori- 升起
+170. -popul- = -publ- 人民
+171. -vert- = -vers- 转
+172. -cosm- 宇宙
+173. -brev- 短
+174. -ann- = -enn- 年
+175. -leg- 说
+176. -cruc- 十字
+177. -mens- 测量
+178. -nat- 生
+179. -monstr- 显示，显现
+180. -myst- 神秘
+181. -claim- = -clam- 喊叫
+182. -cept- = -capt- = -ceive- = -cip- 拿，取
+183. -cover- 掩盖
+184. -apt- 适应
+185. -pear- = -par- 生
+186. -stinct- = -sting- 刺
+187. -emper- = -imper- 命令
+188. -put- = -putat- 考虑
+189. -ident- 相同
+190. -lingu- 语言
+191. -cant- = -cent- 歌唱
+192. -sec- = -sequ- = -sequ- 跟随
+193. -fus- 流
+194. -par- 相等
+195. -fer- 带来，拿
+197. -add- 加
+198. -tempt- = -tent- 触摸
+199. -crit- 判断
+200. -sat- = -satis- = -satur- 足，满，饱
+201. -count- 数
+202. -vol- = -volunt- 意志，意愿
+203. -man- 停驻
+204. -sal- 盐
+205. -ag- 做
+207. -ess- 存在
+208. -path(y)- 感情
+209. -divid- = -divis- 分
+210. -pan- 面包
+211. -cur- 关心，挂念，注意
+212. -turb- 骚乱，骚扰
+213. -tend- = -tens- = -tent- 伸
+214. -memor- 记忆
+215. -par-②准备
+216. -plant- 种植
+217. -magn(i)- = -mega-大
+219. -mini- 小
+220. -ultim- 最后
+221. -test- 证据
+222. -clar- 清楚，明白
+223. -pet- = -petit- 追求
+224. -stinct- = -sting-
+225. -fisc- 国库
+226. -mamm- 乳房
+227. -it- 走
+228. -mon- ①告诫，提醒
+229. -fid- 相信
+230. -migr- 迁移
+231. -cert- 确实
+232. -firm- 坚固，固定
+233. -mod- 量器
+234. -host- 敌人，外人
+236. -psych- 精神
+237. -imag- = -imit- 图像
+238. -nov- 新
+239. -her- = -hes- 粘着
+240. -patr(i)- = -pater- 父，祖
+241. -scra- 砍，切，削，刮
+243. -veng- = -vind- 惩罚
+245. -peal- 召唤
+248. -ac- 尖
+250. -sed- = -sess- = -sie- = -sid- 坐
+254. -sens- = -sent- 感觉
+258. -puls- = -pel- 推动，冲动
+259. -sorb- = -sorpt- 吸
+260. -vad- = -vas- 行走
+261. -oper- 工作
+262. -priv- 个人，私自
+264. -sacr- = -sanct- 神圣
+265. -ras- = -rad- 擦，刮
+266. -barb- 胡须
+267. -liber- = -libr-，自由，天平
+270. -celer- 快，速
+272. -cite-召唤
+274. -dec- = -decor-合适
+276. -dyn- = -dynam-力
+277. -micro- 小，微
+279. -punc(t)- = -pung-尖
+280. -ir- = -irr-怒
+286. -cuss-打击
+287. -voc- = -vok-声音，叫喊
+292. -vest- 穿衣
+296. -esti-价值
+298. -cracy- = -crat-
+统治，支持(或实行)…统治的人
+300. -feder- 联盟
+301. -gnor- = -gnos-知
+302. -grav- 重
+303. -terr- 地
+304. -riv- 河，河岸
+305. -voy-路
+306. -purg- = -pur-清洁，纯洁
+307. -dorm- 睡眠
+308. -fract- = -frag- 破，折
+309. -spir- = -spirat- 呼吸
+310. -para-降落
+311. -mar-=sea 海
+312. -pass- 感情
+313. -rur- = -rust- 农村
+314. -calc-石，石灰
+315. -pot-①饮
+316. -fam-名声
+317. -cad- = -cas- 降落，降临
+318. -pun- = -pen- 罚
+319. -und- = -ound-波浪
+320. -bat- 打
+321. -phor-带，持有，具有
+322. -pot-②能，能力
+333. -flict-打击
+334. -cand- = -cend- = -cens-白，白热，火光
+335. -dign-尊敬的
+336. -vot- = -vow-发誓
+337. -toler-忍受
+338. -alt-高
+339. -spond- = -spons-许诺，答应
+340. -bel-=war 战争
+341. -laps- 滑 , 落
+342. -vit- =life 生命
+343. -mut-改变
+344. -fac- = -fic- ①面
+345. -rap- = -rapt-夺
+346. -splend- 发光，照耀
+347. -flor(i)- = -flour 花
+348. -dur-持久
+349. -anim- 生命，活，心神，意见，精神
+350. -lav-洗
+351. -trem-颤抖，震颤
+352. -cid- = -cis-切，杀
+353. -stor-存放
+354. -matr(i)- = -metro- 母
+355. -anth-花
+356. -integr- 整，全
+357. -greg- 群
+358. -rod- = -ros- 咬，啮
+359. -san-健康
+360. -scend- = -scens- 爬，攀，逐渐的过程
+361. -nomin-名
+362. -neutr-中
+363. -fug- 逃，散
+364. -later- 边
+365. -agri- = field 田地，农田 (-agri-也作–agro-，-agr-)
+366. -dent-=tooth 牙齿
+367. -di-=day 日
+368. -du-=two 二
+369. -ed-=eat 吃
+370. -ev-=age 年龄，寿命，时代，时期
+380. -idio-=peculiar，own，private，proper 特殊的，个人的，专有的
+381. -insul-，-isl-=island 岛
+382. -juven-=young 年轻，年少
+383. -loqu-，-locut-=speak 言，说
+384. -lun-=moon 月亮
+385. -mir-=wonder 惊奇，惊异
+386. -mob-=move 动
+387. -mort-=death 死
+388. -numer-=number 数
+389. -onym-=name 名
+390. -paci-=peace 和平，平静
+391. -pict- =paint 画，描绘
+392. -plen-=full 满，全
+393. -son- =sound 声音
+394. -tail- =cut 切割
+395. -aer(o)- 空气，空中，航空
+396. -anthrop(o)- 人，人类
+397. –aqu(a)- 水
+398. -arch-，-archy- 统治者，首脑统治
+399. -avi- 鸟
+400. -biblio- 书
+401. -brig- 战斗，打
+402. -chron- 时
+403. -cub- 躺，卧
+404. -dem(o)-人民
+405. -dexter- 右
+406. -dom- 屋，家
+407. -drom- 跑
+408. -ego- 我
+409. -err- 漫游，走，行
+410. -fab-，-fabl-，-fabul- 言
+411. -ferv- 沸，热
+412. -fil- 线
+413. -flat- 吹
+414. -gam- 婚姻
+415. -gran- 谷物，谷粒
+416. -gyn-，-gynec(o)-妇女
+417. -hal- 呼吸
+418. -ign- 火
+419. -junct- 连接，连结
+420. -luc- 光
+421. -lumin- 光
+422. -min- 伸出，突出
+423. -mis(o)- 恨，厌恶
+424. -mur- 墙
+425. -nihil- 无
+426. -noct(i)- 夜
+427. -orn- 装饰
+428. -past- 喂，食
+429. -path(o)-，-pathy- 疾病，疗法
+431. -petr(o)- 石 432. -phag- 吃
+433. -phil(o)- 爱
+434. -phob(ia)- 怕
+435. -radic- 根
+436. -sen- 老
+437. -spers-，-spars- 散，撒
+438. -stell- 星
+439. -the(o)- 神
+440. -ton- 音
+441. -tort- 扭
+442. -trud-，-trus- 推，冲
+443. -tut-(教)，-tuit-(学) 监护，看管
+444. -umbr- 阴影
+445. -util-，-us- 用
+446. -vag- 走，漫游
+447. -val- 强
+448. -ver(i)- 真实
